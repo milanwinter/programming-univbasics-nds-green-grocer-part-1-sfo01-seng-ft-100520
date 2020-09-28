@@ -26,4 +26,5 @@ def consolidate_cart(cart)
     end
     counter += 1
   end
+  receipt
 end
